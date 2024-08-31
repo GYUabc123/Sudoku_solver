@@ -1,8 +1,8 @@
-Sudoku_solver
+# Sudoku_solver
 
-sudoku solver implemented with jupyter notebook
+## sudoku solver implemented with jupyter notebook
 
-install require libraries
+## Install require libraries
 
 Example use the code:
 1. Run all the cells
