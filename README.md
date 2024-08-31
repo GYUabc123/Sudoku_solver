@@ -11,5 +11,6 @@ Example use the code:
 3. press `solve`
 4. close the GUI window
 
-Output show below:
+Output shown below:
+
 ![alt text](image-1.png)
