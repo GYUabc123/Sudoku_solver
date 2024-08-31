@@ -10,3 +10,6 @@ Example use the code:
 ![alt text](image.png)
 3. press `solve`
 4. close the GUI window
+
+Output show below:
+![alt text](image-1.png)
